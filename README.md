@@ -1,3 +1,2 @@
- Six_Hump_Camel-Back_Test_Fonsiyonu  Project is made with Visual Studio 2019 and C# Windows Forms app.
- This project is operations research test function of Six Hump Camel Back.
+ Six_Hump_Camel-Back_Test_Fonsiyonu projesi Visual Studio 2019 'da C#  Windows Forms uygulaması olarak geliştrilmiştir.Test fonskiyonlarından biri olan Six Hump Camel-Back Test fonksiyonu uygulama haline getirilmiştir.
 
